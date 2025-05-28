@@ -12,9 +12,7 @@ This project is a chatbot for an intelligent customer service chatbot. It uses a
   - Sentiment analysis via TextBlob
   - Automatic escalation logging and context tracking
 
-<details>
-<summary>📁 Project Structure</summary>
-
+<details><summary>📁 Project Structure</summary>
 project-root/
 ├── backend/
 │   ├── main.py
