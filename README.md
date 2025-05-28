@@ -19,7 +19,9 @@ This project is a chatbot for an intelligent customer service chatbot. It uses a
     ├── backend/
     │   ├── main.py
     │   ├── model_training/
-    │   │   └── fine_tuned_intent_bert/
+    │   │   └── intent_classifier_sentence_transfomer.pt(trained Mode)/
+    │   │   └── customer_intent_dataset.jsonl/
+    │   │   └── model_training.py/
     │   ├── customer_intent_dataset.jsonl
     │   ├── kb.json  
     │   ├── feature_requests.json
@@ -29,6 +31,8 @@ This project is a chatbot for an intelligent customer service chatbot. It uses a
     ├── frontend/
     │   ├── public/
     │   ├── src/
+    │   │   └── App.js/
+    │   │   └── App.css/
     │   ├── package.json
     │   └── ...
     └── README.md
