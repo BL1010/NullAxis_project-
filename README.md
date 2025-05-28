@@ -1,4 +1,4 @@
-# CUSTOMER SERVICE CHATBOT API 
+# CUSTOMER SERVICE CHATBOT 
 This project is a chatbot for an intelligent customer service chatbot. It uses a fine-tuned SentenceTransformer- based intent classification model, semantic search for a knowledge base, and logic for handling sales leads, technical support, and product feature requests. 
 
  🚀 FEATURES 
