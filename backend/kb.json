@@ -1,0 +1,505 @@
+[
+  {
+    "id": "kb_001",
+    "topic": "How do I reset my password?",
+    "content": "To reset your password, click on the 'Forgot Password' link on the login page. You’ll receive an email with instructions to set a new password. If you don’t receive the email, please check your spam folder or contact support."
+  },
+  {
+    "id": "kb_002",
+    "topic": "What are the API usage limits?",
+    "content": "Our standard API plan supports up to 1,000 requests per minute. If you need a higher limit, please contact our sales team to discuss an upgrade."
+  },
+  {
+    "id": "kb_003",
+    "topic": "How can I cancel my subscription?",
+    "content": "You can cancel your subscription by going to Account Settings > Subscription. Click 'Cancel Subscription' and confirm your choice. Your access will remain active until the end of the current billing period."
+  },
+  {
+    "id": "kb_004",
+    "topic": "How do I enable two-factor authentication (2FA)?",
+    "content": "To enable 2FA, go to your Profile Settings, open the Security tab, and toggle on 'Two-Factor Authentication'. You’ll be guided to link an authenticator app like Google Authenticator or Authy."
+  },
+  {
+    "id": "kb_005",
+    "topic": "How do I integrate the platform with Slack?",
+    "content": "To integrate with Slack, navigate to the Integrations page in your account. Click on 'Connect Slack' and follow the authorization steps. Once connected, you can receive alerts and updates directly in your Slack workspace."
+  },
+  {
+    "id": "kb_006",
+    "topic": "How do I update my billing information?",
+    "content": "To update billing details, go to Account Settings > Billing. There you can add a new payment method or edit your current one. All changes are saved automatically."
+  },
+  {
+    "id": "kb_007",
+    "topic": "Why am I not receiving email notifications?",
+    "content": "If you're not receiving emails, first check your spam or junk folder. Ensure that notifications are enabled in your Profile Settings > Notifications. Still facing issues? Contact support."
+  },
+  {
+    "id": "kb_008",
+    "topic": "How do I invite team members to my workspace?",
+    "content": "To invite team members, go to Team Settings and click 'Invite Members'. Enter their email addresses and assign roles. They will receive an email with a link to join your workspace."
+  },
+  {
+    "id": "kb_009",
+    "topic": "How can I export my data?",
+    "content": "You can export your data by going to Settings > Data Export. Select the format (CSV, JSON) and click 'Export'. You will receive a download link via email."
+  },
+  {
+    "id": "kb_010",
+    "topic": "Is my data encrypted and secure?",
+    "content": "Yes, all data is encrypted in transit and at rest using industry-standard AES-256 encryption. We also conduct regular security audits and comply with GDPR and SOC 2 Type II standards."
+  },
+  {
+  "id": "kb_011",
+  "topic": "Can I change my username?",
+  "content": "Usernames are permanent once set. If you need to update it due to a critical issue, contact support."
+},
+{
+  "id": "kb_012",
+  "topic": "How do I delete my account?",
+  "content": "To delete your account, go to Account Settings > Privacy and click 'Delete Account'. This action is irreversible."
+},
+{
+  "id": "kb_013",
+  "topic": "How do I contact support?",
+  "content": "You can contact support via the 'Help' widget in your dashboard or by emailing support@ourcompany.com."
+},
+{
+  "id": "kb_014",
+  "topic": "Can I change my email address?",
+  "content": "Yes, go to Profile Settings > Email to update your registered email address."
+},
+{
+  "id": "kb_015",
+  "topic": "What integrations are supported?",
+  "content": "We currently support integrations with Slack, Zapier, Salesforce, Google Workspace, and Microsoft Teams."
+},
+{
+  "id": "kb_016",
+  "topic": "How do I upgrade my plan?",
+  "content": "Go to Billing Settings and select 'Upgrade Plan'. Choose your desired tier and confirm the payment method."
+},
+{
+  "id": "kb_017",
+  "topic": "Where can I view my usage statistics?",
+  "content": "Usage statistics are available in the Dashboard under the 'Analytics' section."
+},
+{
+  "id": "kb_018",
+  "topic": "Can I have multiple admins in my workspace?",
+  "content": "Yes, you can assign admin roles to other members under Team Settings > Roles."
+},
+{
+  "id": "kb_019",
+  "topic": "How do I recover a deleted file?",
+  "content": "Deleted files can be restored from Trash within 30 days. Go to Files > Trash to recover."
+},
+{
+  "id": "kb_020",
+  "topic": "Do you offer discounts for nonprofits?",
+  "content": "Yes, we offer special pricing for verified nonprofit organizations. Contact our sales team to apply."
+},
+{
+  "id": "kb_021",
+  "topic": "Is there a mobile app available?",
+  "content": "Yes, our mobile app is available for iOS and Android. Search 'OurPlatform' in your app store."
+},
+{
+  "id": "kb_022",
+  "topic": "How do I change my profile picture?",
+  "content": "Go to Profile Settings, click on your avatar, and upload a new image."
+},
+{
+  "id": "kb_023",
+  "topic": "Can I schedule messages to be sent later?",
+  "content": "Yes, in the messaging tool, select 'Schedule' and choose a future time and date."
+},
+{
+  "id": "kb_024",
+  "topic": "How do I enable dark mode?",
+  "content": "Go to Profile Settings > Appearance and toggle on 'Dark Mode'."
+},
+{
+  "id": "kb_025",
+  "topic": "What file types can I upload?",
+  "content": "We support images (JPG, PNG), documents (PDF, DOCX), spreadsheets (XLSX), and text files (TXT)."
+},
+{
+  "id": "kb_026",
+  "topic": "Can I assign tasks to team members?",
+  "content": "Yes, use the Task Manager to assign tasks, set deadlines, and track progress."
+},
+{
+  "id": "kb_027",
+  "topic": "What is the maximum file upload size?",
+  "content": "The maximum upload size per file is 100MB. For larger needs, contact support."
+},
+{
+  "id": "kb_028",
+  "topic": "How do I create a new workspace?",
+  "content": "Click on your profile icon > Switch Workspace > Create New Workspace. Follow the prompts."
+},
+{
+  "id": "kb_029",
+  "topic": "Can I rename a project?",
+  "content": "Yes, go to Project Settings and click the name field to rename it."
+},
+{
+  "id": "kb_030",
+  "topic": "Where can I find the changelog?",
+  "content": "The changelog is available at the bottom of your dashboard or at ourplatform.com/changelog."
+},
+{
+  "id": "kb_031",
+  "topic": "How do I duplicate a template?",
+  "content": "Open the template and click 'Duplicate' in the top-right menu."
+},
+{
+  "id": "kb_032",
+  "topic": "What is your refund policy?",
+  "content": "We offer a 14-day money-back guarantee for new users. Contact billing to request a refund."
+},
+{
+  "id": "kb_033",
+  "topic": "Can I use webhooks?",
+  "content": "Yes, you can configure webhooks in Developer Settings to receive real-time event updates."
+},
+{
+  "id": "kb_034",
+  "topic": "How do I enable email summaries?",
+  "content": "Go to Notifications > Email and toggle on 'Daily Summary Emails'."
+},
+{
+  "id": "kb_035",
+  "topic": "How do I transfer ownership of a workspace?",
+  "content": "Under Team Settings > Roles, change the owner role to a new user. Only owners can transfer ownership."
+},
+{
+  "id": "kb_036",
+  "topic": "What languages do you support?",
+  "content": "We currently support English, Spanish, French, German, and Japanese."
+},
+{
+  "id": "kb_037",
+  "topic": "Do you support SSO?",
+  "content": "Yes, SSO is available on the Enterprise plan. Contact your account manager to configure it."
+},
+{
+  "id": "kb_038",
+  "topic": "How do I report a bug?",
+  "content": "Use the 'Report a Bug' link in the footer or email us at bugs@ourplatform.com."
+},
+{
+  "id": "kb_039",
+  "topic": "Can I use custom domains?",
+  "content": "Yes, add your custom domain under Workspace Settings > Custom Domains."
+},
+{
+  "id": "kb_040",
+  "topic": "How do I archive a project?",
+  "content": "Go to the project, click the options menu, and select 'Archive Project'."
+},
+{
+  "id": "kb_041",
+  "topic": "Can I share read-only views?",
+  "content": "Yes, toggle 'Read-Only' when generating a shareable link for documents or dashboards."
+},
+{
+  "id": "kb_042",
+  "topic": "Do you offer onboarding assistance?",
+  "content": "Yes, our success team offers onboarding sessions for all new business customers."
+},
+{
+  "id": "kb_043",
+  "topic": "Where can I download my invoices?",
+  "content": "Invoices are available under Billing > Invoice History. Download as PDF anytime."
+},
+{
+  "id": "kb_044",
+  "topic": "How do I change my time zone?",
+  "content": "Update your time zone in Profile Settings > Localization."
+},
+{
+  "id": "kb_045",
+  "topic": "What happens if I exceed my plan limits?",
+  "content": "You’ll receive a warning email, and overages may be billed depending on your plan."
+},
+{
+  "id": "kb_046",
+  "topic": "Can I create custom roles?",
+  "content": "Custom roles can be created under Team Settings > Roles (available on Pro and above)."
+},
+{
+  "id": "kb_047",
+  "topic": "How often is data backed up?",
+  "content": "We back up all user data hourly and store encrypted copies in secure cloud storage."
+},
+{
+  "id": "kb_048",
+  "topic": "Can I undo changes to a document?",
+  "content": "Yes, use version history to restore previous versions."
+},
+{
+  "id": "kb_049",
+  "topic": "What browsers are supported?",
+  "content": "We support Chrome, Firefox, Safari, and Edge. Internet Explorer is not supported."
+},
+{
+  "id": "kb_050",
+  "topic": "Do you support markdown formatting?",
+  "content": "Yes, markdown is supported in all note-taking and documentation fields."
+},
+{
+  "id": "kb_051",
+  "topic": "How do I change my notification preferences?",
+  "content": "Go to Profile Settings > Notifications to customize what alerts you receive and how."
+},
+{
+  "id": "kb_052",
+  "topic": "Can I export reports as PDFs?",
+  "content": "Yes, all reports have an export option that lets you save them as PDFs or CSVs."
+},
+{
+  "id": "kb_053",
+  "topic": "Is there a way to automate workflows?",
+  "content": "Yes, use our Workflow Builder to automate tasks with triggers and actions."
+},
+{
+  "id": "kb_054",
+  "topic": "How do I reset API keys?",
+  "content": "In Developer Settings, you can revoke and generate new API keys at any time."
+},
+{
+  "id": "kb_055",
+  "topic": "How do I invite external collaborators?",
+  "content": "Go to Team Settings > Invitations and enter their email with appropriate access rights."
+},
+{
+  "id": "kb_056",
+  "topic": "What happens to my data if I cancel?",
+  "content": "Data is retained for 30 days after cancellation, after which it is permanently deleted."
+},
+{
+  "id": "kb_057",
+  "topic": "Do you have an SLA for uptime?",
+  "content": "Our SLA guarantees 99.9% uptime. Details are available in the Enterprise Agreement."
+},
+{
+  "id": "kb_058",
+  "topic": "How do I enable beta features?",
+  "content": "Beta features can be toggled on from Profile Settings > Experimental Features."
+},
+{
+  "id": "kb_059",
+  "topic": "Can I recover deleted messages?",
+  "content": "Deleted messages cannot be recovered once removed from chat history."
+},
+{
+  "id": "kb_060",
+  "topic": "How do I connect my account to Google Drive?",
+  "content": "Navigate to Integrations > Google Drive and authorize access."
+},
+{
+  "id": "kb_061",
+  "topic": "Can I customize the dashboard layout?",
+  "content": "Yes, drag and drop widgets to customize your dashboard view."
+},
+{
+  "id": "kb_062",
+  "topic": "What are the password requirements?",
+  "content": "Passwords must be at least 8 characters and include uppercase, lowercase, numbers, and special characters."
+},
+{
+  "id": "kb_063",
+  "topic": "How do I export chat transcripts?",
+  "content": "Open a chat, click 'More' > 'Export Transcript' to download a text file."
+},
+{
+  "id": "kb_064",
+  "topic": "Is there a limit on the number of projects?",
+  "content": "The number of projects you can create depends on your subscription plan."
+},
+{
+  "id": "kb_065",
+  "topic": "How do I clear my cache?",
+  "content": "Clear cache in your browser settings or use the 'Clear Cache' option in the app settings."
+},
+{
+  "id": "kb_066",
+  "topic": "Can I add tags to messages?",
+  "content": "Yes, tags can be added in the message options menu for easier organization."
+},
+{
+  "id": "kb_067",
+  "topic": "How do I set up multi-language support?",
+  "content": "Enable multi-language support in Workspace Settings and add desired languages."
+},
+{
+  "id": "kb_068",
+  "topic": "What security measures are in place?",
+  "content": "We use encryption, two-factor authentication, and regular security audits to protect your data."
+},
+{
+  "id": "kb_069",
+  "topic": "Can I archive team members?",
+  "content": "Inactive members can be archived from Team Settings to restrict access."
+},
+{
+  "id": "kb_070",
+  "topic": "Do you offer API access logs?",
+  "content": "Yes, API access logs are available in Developer Settings under 'Logs'."
+},
+{
+  "id": "kb_071",
+  "topic": "How do I customize email templates?",
+  "content": "Go to Email Settings and edit the templates for notifications and alerts."
+},
+{
+  "id": "kb_072",
+  "topic": "Are there keyboard shortcuts?",
+  "content": "Yes, press '?' in the app to view available keyboard shortcuts."
+},
+{
+  "id": "kb_073",
+  "topic": "How do I link my account to social media?",
+  "content": "Navigate to Profile Settings > Social Links and connect your accounts."
+},
+{
+  "id": "kb_074",
+  "topic": "Is real-time collaboration supported?",
+  "content": "Yes, multiple users can edit documents simultaneously with real-time syncing."
+},
+{
+  "id": "kb_075",
+  "topic": "How do I disable notifications temporarily?",
+  "content": "Use 'Do Not Disturb' mode in Notifications Settings to silence alerts temporarily."
+},
+{
+  "id": "kb_076",
+  "topic": "Can I import data from other platforms?",
+  "content": "Yes, use the Import tool in Settings to bring data from supported platforms."
+},
+{
+  "id": "kb_077",
+  "topic": "How do I manage API rate limits?",
+  "content": "Monitor usage in Developer Dashboard and upgrade plans if you need higher limits."
+},
+{
+  "id": "kb_078",
+  "topic": "How do I set reminders?",
+  "content": "Add reminders within tasks or calendar events with customizable alerts."
+},
+{
+  "id": "kb_079",
+  "topic": "Do you support offline mode?",
+  "content": "Offline mode is available in the mobile app for viewing and editing cached data."
+},
+{
+  "id": "kb_080",
+  "topic": "How do I enable push notifications?",
+  "content": "Push notifications can be enabled in your device settings and in the app under Notifications."
+},
+{
+  "id": "kb_081",
+  "topic": "Can I export data for GDPR requests?",
+  "content": "Yes, use the Data Export tool to comply with GDPR data access requests."
+},
+{
+  "id": "kb_082",
+  "topic": "How do I change language preferences?",
+  "content": "Change your language preference in Profile Settings > Language."
+},
+{
+  "id": "kb_083",
+  "topic": "How do I connect with Zapier?",
+  "content": "Go to Integrations > Zapier and follow the instructions to connect."
+},
+{
+  "id": "kb_084",
+  "topic": "Can I create sub-tasks?",
+  "content": "Yes, sub-tasks can be created inside main tasks to break down work."
+},
+{
+  "id": "kb_085",
+  "topic": "How do I delete a workspace?",
+  "content": "Only owners can delete workspaces from Workspace Settings > Delete Workspace."
+},
+{
+  "id": "kb_086",
+  "topic": "What is the difference between roles?",
+  "content": "Roles define access levels and permissions; see Team Settings for detailed descriptions."
+},
+{
+  "id": "kb_087",
+  "topic": "Can I customize notifications by channel?",
+  "content": "Yes, configure notifications per channel in Notifications Settings."
+},
+{
+  "id": "kb_088",
+  "topic": "How do I report abuse or spam?",
+  "content": "Use the 'Report' button on messages or contact support immediately."
+},
+{
+  "id": "kb_089",
+  "topic": "Is there an audit log?",
+  "content": "Enterprise plans include detailed audit logs accessible under Admin Settings."
+},
+{
+  "id": "kb_090",
+  "topic": "Can I restore archived projects?",
+  "content": "Yes, archived projects can be restored from Project Settings > Archived."
+},
+{
+  "id": "kb_091",
+  "topic": "How do I set up custom branding?",
+  "content": "Custom branding is available on Enterprise plans under Workspace Settings > Branding."
+},
+{
+  "id": "kb_092",
+  "topic": "What is the data retention policy?",
+  "content": "We retain user data for as long as the account is active and 30 days after deletion."
+},
+{
+  "id": "kb_093",
+  "topic": "Can I link multiple payment methods?",
+  "content": "Yes, add multiple payment methods under Billing Settings and select a default."
+},
+{
+  "id": "kb_094",
+  "topic": "How do I reset my password via SMS?",
+  "content": "Password resets via SMS are available if you have a verified phone number on file."
+},
+{
+  "id": "kb_095",
+  "topic": "Do you support GDPR compliance?",
+  "content": "Yes, we comply fully with GDPR regulations. See our Privacy Policy for details."
+},
+{
+  "id": "kb_096",
+  "topic": "Can I create custom dashboards?",
+  "content": "Yes, custom dashboards can be created from the Analytics tab."
+},
+{
+  "id": "kb_097",
+  "topic": "How do I export billing history?",
+  "content": "Billing history can be exported as CSV from Billing > History."
+},
+{
+  "id": "kb_098",
+  "topic": "Can I set auto-archive rules?",
+  "content": "Auto-archive rules can be configured in Project Settings."
+},
+{
+  "id": "kb_099",
+  "topic": "Is there a sandbox environment?",
+  "content": "Yes, sandbox environments are available for Enterprise customers upon request."
+},
+{
+  "id": "kb_100",
+  "topic": "How do I enable account activity notifications?",
+  "content": "Enable account activity notifications in Profile Settings > Security."
+}
+]
+
+  
+

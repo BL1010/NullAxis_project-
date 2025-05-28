@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+torch
+transformers
+sentence-transformers
+textblob
+faiss-cpu
+scikit-learn
+numpy
+tqdm
+pydantic
+python-dotenv
+CORSMiddleware 
+typing
+json
+
+
