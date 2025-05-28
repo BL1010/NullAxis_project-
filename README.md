@@ -14,23 +14,25 @@ This project is a chatbot for an intelligent customer service chatbot. It uses a
 
 <details>
   <summary>📁 Project Structure</summary>
-project-root/
-├── backend/
-│   ├── main.py
-│   ├── model_training/
-│   │   └── fine_tuned_intent_bert/
-│   ├── customer_intent_dataset.jsonl
-│   ├── kb.json
-│   ├── feature_requests.json
-│   ├── sales_leads.json
-│   ├── negative_feedback.json
-│   └── unresolved_technical_queries.json
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── ...
-└── README.md
+ 
+    project-root/
+    ├── backend/
+    │   ├── main.py
+    │   ├── model_training/
+    │   │   └── fine_tuned_intent_bert/
+    │   ├── customer_intent_dataset.jsonl
+    │   ├── kb.json  
+    │   ├── feature_requests.json
+    │   ├── sales_leads.json
+    │   ├── negative_feedback.json
+    │   └── unresolved_technical_queries.json
+    ├── frontend/
+    │   ├── public/
+    │   ├── src/
+    │   ├── package.json
+    │   └── ...
+    └── README.md
+    
 </details>
 
 ⚙️ PREREQUISITES
