@@ -13,5 +13,6 @@ python-dotenv
 CORSMiddleware 
 typing
 json
+gunicorn
 
 
